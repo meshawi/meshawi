@@ -1,3 +1,5 @@
+<img aligh=right alt="thumbnale" src='YB3D.jpg'>
+
 # 💫 About Me:
 🔭 I’m currently working on: Developing innovative web and mobile applications using React and JavaScript.<br>👯 I’m looking to collaborate on: Exciting projects that push the boundaries of web and mobile development.<br>🤝 I’m looking for help with: Expanding my knowledge in backend technologies to complement my frontend expertise.<br>🌱 I’m currently learning: Advanced concepts in cloud computing and DevOps to enhance my full-stack capabilities.<br>💬 Ask me about: React, JavaScript, and best practices for building scalable web and mobile platforms.<br>⚡ Fun fact: I graduated at the top of my class and have a knack for solving complex coding challenges!
 
